@@ -32,7 +32,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
       </td>
       <td align="center">
-        <a href=https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_11047.java>
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_11047.java">
             Day01
         </a>
       </td>
@@ -59,9 +59,84 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href=https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_5585.java>
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_5585.java">
             Day01
         </a>
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        3
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/10162">
+            10162
+        </a>
+      </td>
+      <td align="center">
+        전자레인지
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453889-3852a30e-37f9-4a73-8622-47247332271d.png"></sub>
+      </td>
+      <td align="center">
+            Day02
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        4
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2217">
+            2217
+        </a>
+      </td>
+      <td align="center">
+        로프
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
+      </td>
+      <td align="center">
+            Day03
+      </td>
+      <td align="center">
+        JAVA
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        5
+      </td>
+      <td align="center">
+        백준
+      </td>
+      <td align="center">
+        <a href="https://www.acmicpc.net/problem/2864">
+            2864
+        </a>
+      </td>
+      <td align="center">
+        바보 상근이
+      </td>
+      <td align="center">
+        <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
+      </td>
+      <td align="center">
+            Day04
       </td>
       <td align="center">
         JAVA
