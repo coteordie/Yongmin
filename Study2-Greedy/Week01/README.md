@@ -130,7 +130,7 @@
         </a>
       </td>
       <td align="center">
-        바보 상근이
+        5와 6의 차이
       </td>
       <td align="center">
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
