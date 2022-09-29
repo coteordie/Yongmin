@@ -1,4 +1,4 @@
-# Week01
+# Week2
 ### Greedy Algorithm
 ### 2022.09.21 ~ 2022.09.28
 ---
@@ -33,7 +33,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_11047.java">
-            Day01
+            Day4
         </a>
       </td>
       <td align="center">
@@ -60,7 +60,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_5585.java">
-            Day01
+            Day4
         </a>
       </td>
       <td align="center">
@@ -87,7 +87,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day02/BOJ_10162.java">
-            Day02
+            Day5
         </a>
       </td>
       <td align="center">
@@ -114,7 +114,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day03/BOJ_2217.java">
-            Day03
+            Day6
         </a>
       </td>
       <td align="center">
@@ -141,7 +141,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day04/BOJ_2864.java">
-            Day04
+            Day7
         </a>
       </td>
       <td align="center">
@@ -168,7 +168,7 @@
       </td>
       <td align="center">
         <a href=https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day05/BOJ_11399.java>
-            Day05
+            Day8
         </a>
       </td>
       <td align="center">
