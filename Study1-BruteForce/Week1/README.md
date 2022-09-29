@@ -34,7 +34,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day01/BOJ_2231.java">
-            Day01
+            Day1
         </a>
       </td>
       <td align="center">
@@ -61,7 +61,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day01/BOJ_2798.java">
-            Day01
+            Day1
         </a>
       </td>
       <td align="center">
@@ -89,7 +89,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day02/BOJ_2438.java">
-            Day02
+            Day2
         </a>
       </td>
       <td align="center">
@@ -116,7 +116,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day02/BOJ_2439.java">
-            Day02
+            Day2
         </a>
       </td>
       <td align="center">
@@ -143,7 +143,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day02/BOJ_2440.java">
-            Day02
+            Day2
         </a>
       </td>
       <td align="center">
@@ -170,7 +170,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day03/BOJ_17614.java">
-            Day03
+            Day3
         </a>
       </td>
       <td align="center">
@@ -197,7 +197,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/coteordie/Yongmin/blob/main/Study1-BruteForce/Week01/Day04/BOJ_1436.java">
-            Day04
+            Day4
         </a>
       </td>
       <td align="center">
