@@ -1,4 +1,4 @@
-package boj.study1_bruteforce.week01.day04;
+package boj.study1_bruteforce.week1.day4;
 
 import java.util.Scanner;
 

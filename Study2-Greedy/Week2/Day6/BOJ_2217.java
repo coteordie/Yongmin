@@ -1,4 +1,4 @@
-package boj.study2_greedy.week01.day03;
+package boj.study2_greedy.week2.day6;
 
 import java.util.Arrays;
 import java.util.Scanner;

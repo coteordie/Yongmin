@@ -1,4 +1,4 @@
-package boj.study2_greedy.week01.day05;
+package boj.study2_greedy.week2.day8;
 
 import java.util.Scanner;
 import java.util.Arrays;
@@ -10,7 +10,7 @@ public class BOJ_11399 {
 	    int[] P = new int[n];
 	    for (int i = 0; i < n; i++) {
 	        P[i] = sc.nextInt();
-			}
+		}
 	
 	    Arrays.sort(P);
 	
