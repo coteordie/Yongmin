@@ -32,7 +32,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_11047.java">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week2/Day4/BOJ_11047.java">
             Day4
         </a>
       </td>
@@ -59,7 +59,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day01/BOJ_5585.java">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week2/Day4/BOJ_5585.java">
             Day4
         </a>
       </td>
@@ -86,7 +86,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453889-3852a30e-37f9-4a73-8622-47247332271d.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day02/BOJ_10162.java">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week2/Day5/BOJ_10162.java">
             Day5
         </a>
       </td>
@@ -113,7 +113,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day03/BOJ_2217.java">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week2/Day6/BOJ_2217.java">
             Day6
         </a>
       </td>
@@ -140,7 +140,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453896-b9f4c65a-20c7-4a58-b7f1-62d9c01fae84.png"></sub>
       </td>
       <td align="center">
-        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day04/BOJ_2864.java">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week2/Day7/BOJ_2864.java">
             Day7
         </a>
       </td>
@@ -167,7 +167,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453924-710de7f3-0578-4a3e-8f98-dd014210eb3e.png"></sub>
       </td>
       <td align="center">
-        <a href=https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week01/Day05/BOJ_11399.java>
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week2/Day8/BOJ_11399.java">
             Day8
         </a>
       </td>
