@@ -86,7 +86,9 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190454006-3ba049b0-f664-4a19-bb79-99536e1ead36.png"></sub>
       </td>
       <td align="center">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week3/Day11/BOJ_16953.java">
             Day11
+        </a>
       </td>
       <td align="center">
         JAVA
@@ -111,7 +113,9 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190454021-beb785c5-29eb-434f-9dde-1f3f9132e5d9.png"></sub>
       </td>
       <td align="center">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study2-Greedy/Week3/Day12/BOJ_13164.java">
             Day12
+        </a>
       </td>
       <td align="center">
         JAVA
