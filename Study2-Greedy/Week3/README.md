@@ -165,7 +165,7 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453932-9fd875e8-79ee-4d3b-8f83-616a092b7c3a.png"></sub>
       </td>
       <td align="center">
-            Day13
+            Day14
       </td>
       <td align="center">
         JAVA
