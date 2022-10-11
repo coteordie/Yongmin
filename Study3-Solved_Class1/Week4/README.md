@@ -372,7 +372,7 @@
         백준
       </td>
       <td align="center">
-        <a href="https://www.acmicpc.net/problem/1156">
+        <a href="https://www.acmicpc.net/problem/1157">
             1157
         </a>
       </td>
