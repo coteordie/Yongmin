@@ -140,7 +140,9 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
       </td>
       <td align="center">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study3-Solved_Class1/Week5/Day21/BOJ_2475.java">
             Day21
+        </a>
       </td>
       <td align="center">
         JAVA
@@ -246,7 +248,9 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
       </td>
       <td align="center">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study3-Solved_Class1/Week5/Day22/BOJ_2753.java">
             Day22
+        </a>
       </td>
       <td align="center">
         JAVA
@@ -298,7 +302,9 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
       </td>
       <td align="center">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study3-Solved_Class1/Week5/Day22/BOJ_10171.java">
             Day22
+        </a>
       </td>
       <td align="center">
         JAVA
@@ -323,7 +329,9 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
       </td>
       <td align="center">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study3-Solved_Class1/Week5/Day22/BOJ_10172.java">
             Day22
+        </a>
       </td>
       <td align="center">
         JAVA
@@ -348,7 +356,9 @@
         <sub><img src="https://user-images.githubusercontent.com/81818730/190453860-bdfec0ad-dd92-4fb1-a56c-5f394831a0c5.png"></sub>
       </td>
       <td align="center">
+        <a href="https://github.com/coteordie/Yongmin/blob/main/Study3-Solved_Class1/Week5/Day23/BOJ_10809.java">
             Day23
+        </a>
       </td>
       <td align="center">
         JAVA
